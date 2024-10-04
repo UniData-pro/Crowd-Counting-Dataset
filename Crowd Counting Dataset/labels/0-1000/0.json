@@ -1,0 +1,4163 @@
+{
+    "annotations": [
+        {
+            "id": "dd907718-56d1-403c-9441-0a1ecda22f44",
+            "keypoint": {
+                "x": 836.29,
+                "y": 930.31
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "715e90df-f5c0-4ac2-afce-3e53192168c9",
+            "keypoint": {
+                "x": 24.54,
+                "y": 653.69
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "6eb0935a-1b38-4a8d-a1fc-a32b669ed1db",
+            "keypoint": {
+                "x": 9.72,
+                "y": 696.5
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "379bc567-9e44-4dbd-9fed-ace4caed08a3",
+            "keypoint": {
+                "x": 73.93,
+                "y": 683.32
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "6a744c57-a222-4ef8-8cf4-857a6caa22e6",
+            "keypoint": {
+                "x": 65.7,
+                "y": 630.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "84a4c790-6914-48bd-825b-9ed57388179e",
+            "keypoint": {
+                "x": 57.9,
+                "y": 602.43
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "76ba9d05-3d42-4f3f-8ef2-41626a1ec51e",
+            "keypoint": {
+                "x": 50.1,
+                "y": 585.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "b75de14e-29be-4c3e-a3ba-c37d4e007b4d",
+            "keypoint": {
+                "x": 24.9,
+                "y": 557.43
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "03aa39c1-c6ec-46cc-a395-e2552f62763e",
+            "keypoint": {
+                "x": 23.1,
+                "y": 540.02
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "5e933d0b-940c-4fad-9661-cb15a981875e",
+            "keypoint": {
+                "x": 6.9,
+                "y": 574.83
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "13eda334-1697-47dc-8736-e5bac8583904",
+            "keypoint": {
+                "x": 80.1,
+                "y": 530.42
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "4d45bae5-61f5-40b9-a07f-0d514c29b9d0",
+            "keypoint": {
+                "x": 94.5,
+                "y": 541.82
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "1e5fade7-6285-48fd-ae68-97e763506804",
+            "keypoint": {
+                "x": 75.3,
+                "y": 551.43
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "4d8fd743-a63e-4266-ae0a-413dfc50b965",
+            "keypoint": {
+                "x": 51.3,
+                "y": 533.42
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "54601b50-99ea-49ce-93cf-eb6af1123d8c",
+            "keypoint": {
+                "x": 45.9,
+                "y": 512.42
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "bdced4a6-daa4-4bb8-a136-dc9b27206bb7",
+            "keypoint": {
+                "x": 29.1,
+                "y": 519.02
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "4f3ea5f8-2bdc-4ce8-9780-427221b66304",
+            "keypoint": {
+                "x": 11.7,
+                "y": 522.62
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "0ee4e6b0-571a-4bbc-bfe4-478d9c93473b",
+            "keypoint": {
+                "x": 3.29,
+                "y": 535.82
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "43753d5d-085b-4b21-a573-0ddfb7c92921",
+            "keypoint": {
+                "x": 106.5,
+                "y": 570.03
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "cca616fe-19c7-4ab9-b923-2a6f5e880fc9",
+            "keypoint": {
+                "x": 114.31,
+                "y": 549.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "0b7783fd-ef69-4bb2-9862-ff0af5faffd6",
+            "keypoint": {
+                "x": 72.9,
+                "y": 508.82
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "7ddbf3d7-9d04-48d8-8f03-d6f53b8d63bb",
+            "keypoint": {
+                "x": 94.5,
+                "y": 611.43
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "bf9e8cd2-97b0-4acb-a4d2-e1984b40bbe4",
+            "keypoint": {
+                "x": 106.5,
+                "y": 642.03
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "ff173352-b9a8-4d52-8a0f-1fa30b57f8f4",
+            "keypoint": {
+                "x": 143.71,
+                "y": 649.84
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "e386c76d-878c-4779-829f-a3e2b8a42701",
+            "keypoint": {
+                "x": 118.51,
+                "y": 600.03
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "e383ec3f-c602-4ca5-95ff-e74c18c6da0a",
+            "keypoint": {
+                "x": 143.71,
+                "y": 604.83
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "70449925-01e5-4508-855d-9e1687aafcba",
+            "keypoint": {
+                "x": 166.51,
+                "y": 589.23
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "222fb0c8-80c0-433e-a365-443e3f50cf98",
+            "keypoint": {
+                "x": 140.11,
+                "y": 584.43
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "db412a67-59a6-43d8-8816-ef404c00fe33",
+            "keypoint": {
+                "x": 162.91,
+                "y": 619.83
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "b45e63c9-6500-424a-8808-b3bafd4b9bd2",
+            "keypoint": {
+                "x": 167.71,
+                "y": 675.64
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "835a3004-7cf4-487d-8fcb-132b8f0925ae",
+            "keypoint": {
+                "x": 105.9,
+                "y": 709.84
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "cbbb91ad-0cbc-49ff-a7dc-f45d39e8f989",
+            "keypoint": {
+                "x": 222.32,
+                "y": 683.44
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "7fa12b73-7008-4265-aa96-0120e5f600e0",
+            "keypoint": {
+                "x": 219.92,
+                "y": 660.04
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "c3557e59-b912-4412-91ac-14dfc9e770b6",
+            "keypoint": {
+                "x": 224.72,
+                "y": 644.43
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "4c996789-c937-4da1-bbaf-bfe844424e2c",
+            "keypoint": {
+                "x": 235.52,
+                "y": 624.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "e4a8a3a3-74a4-437a-bb16-53d72c41c701",
+            "keypoint": {
+                "x": 252.32,
+                "y": 599.43
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "b1b1bd8b-a1db-4201-b7c6-55fa88997796",
+            "keypoint": {
+                "x": 268.52,
+                "y": 580.23
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "97e9f239-1c54-498b-8c3a-d7df8f872f18",
+            "keypoint": {
+                "x": 192.31,
+                "y": 597.03
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "9342c24c-edb6-4e20-82ea-aa0ffd911c97",
+            "keypoint": {
+                "x": 246.92,
+                "y": 577.83
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "4e7bc288-4794-49a4-84e1-f78a2bb66f0d",
+            "keypoint": {
+                "x": 263.12,
+                "y": 634.23
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "54d2bee5-17cb-4a5b-a368-416207c36115",
+            "keypoint": {
+                "x": 276.32,
+                "y": 613.23
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "66f5dab6-82fd-4254-a7cd-01a2bfee68aa",
+            "keypoint": {
+                "x": 243.92,
+                "y": 757.85
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "75d8ec08-5b65-4300-b2da-362f2b73c4c6",
+            "keypoint": {
+                "x": 283.52,
+                "y": 715.24
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "7ab2a31d-374b-4ba1-abce-dc9f61d3abab",
+            "keypoint": {
+                "x": 299.12,
+                "y": 663.04
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "351f74e5-42f2-4ae5-9a42-e7014c45a3cb",
+            "keypoint": {
+                "x": 327.93,
+                "y": 662.44
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "c0e8b9fb-bde4-4cf8-a0dd-8b1bfda2d6df",
+            "keypoint": {
+                "x": 351.93,
+                "y": 624.03
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "54ffb4bd-73ec-4c49-ab4c-bd5c2d96c45d",
+            "keypoint": {
+                "x": 334.53,
+                "y": 613.23
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "9de36c05-f873-4b47-8ed1-deaa53c7e0b9",
+            "keypoint": {
+                "x": 362.13,
+                "y": 801.65
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "902829f6-c9d6-4ee2-a810-6988b00e1ae5",
+            "keypoint": {
+                "x": 485.14,
+                "y": 846.05
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "b16e0f89-77b5-4452-a094-d24d369a455d",
+            "keypoint": {
+                "x": 494.74,
+                "y": 760.25
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "4d86b37d-1cbb-4e67-9f6a-35ed488d62ce",
+            "keypoint": {
+                "x": 407.13,
+                "y": 700.24
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "cdbdc11a-9438-4433-8cdf-1b7b71fa040b",
+            "keypoint": {
+                "x": 397.53,
+                "y": 669.04
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "a58580fc-4994-4580-9ae5-454e9ed058dd",
+            "keypoint": {
+                "x": 384.33,
+                "y": 630.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "0df89555-4f5f-42a6-9d96-38f393e6d92e",
+            "keypoint": {
+                "x": 368.73,
+                "y": 602.43
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "e93aa9b8-1c99-4422-aeda-cf6c1a1d0b62",
+            "keypoint": {
+                "x": 344.73,
+                "y": 581.43
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "0c2d288d-dc7d-4c83-af7c-7242f3162fd6",
+            "keypoint": {
+                "x": 325.53,
+                "y": 558.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "96d3c705-af16-4416-8061-d70d10620763",
+            "keypoint": {
+                "x": 335.13,
+                "y": 564.03
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "678b07ba-3eee-4f96-bbb6-5b1bb3a5226e",
+            "keypoint": {
+                "x": 359.13,
+                "y": 556.83
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "c838b0f3-941b-48d2-ae54-986d6b2a3096",
+            "keypoint": {
+                "x": 401.13,
+                "y": 571.83
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "d707da6a-7b60-4744-898b-94702c44b9c1",
+            "keypoint": {
+                "x": 392.13,
+                "y": 596.43
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "9acc4d47-4d3d-4ce6-9235-f40852c9cf3b",
+            "keypoint": {
+                "x": 420.94,
+                "y": 592.23
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "8d0c7e9a-ff07-4b0e-b7f8-39a11e027957",
+            "keypoint": {
+                "x": 416.74,
+                "y": 628.23
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "f335c99a-e413-44a0-b1e1-83e5a6aeb9d2",
+            "keypoint": {
+                "x": 462.94,
+                "y": 634.23
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "b7581144-cdb8-4482-b5df-ee1ae0e43031",
+            "keypoint": {
+                "x": 439.54,
+                "y": 667.84
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "c7ff2b41-453d-4122-8b47-f92a2eb09942",
+            "keypoint": {
+                "x": 434.74,
+                "y": 646.83
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "a2671abf-fd63-473e-a3d0-8cdcadd05fc0",
+            "keypoint": {
+                "x": 441.34,
+                "y": 689.44
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "851325b0-35b4-459f-9574-81c1353db5dc",
+            "keypoint": {
+                "x": 519.35,
+                "y": 700.84
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "7452ba6c-9269-4a71-be9d-1f3211256a34",
+            "keypoint": {
+                "x": 499.54,
+                "y": 639.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "7ab73740-a056-4d13-8e05-6c484c85e30c",
+            "keypoint": {
+                "x": 521.75,
+                "y": 591.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "47f112ca-2660-41f7-adfa-311297ce6aa8",
+            "keypoint": {
+                "x": 477.34,
+                "y": 617.43
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "119ede22-db44-4b3f-9cee-d73e521287a8",
+            "keypoint": {
+                "x": 492.34,
+                "y": 611.43
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "bb4604b5-4992-4909-b340-e9d43c4a9a5b",
+            "keypoint": {
+                "x": 468.94,
+                "y": 601.23
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "d0d5618c-fa60-48bc-878c-441b10727854",
+            "keypoint": {
+                "x": 492.34,
+                "y": 579.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "272bcdd4-e72e-4545-9046-14524d502352",
+            "keypoint": {
+                "x": 488.74,
+                "y": 564.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "a40c0e31-3007-40d6-b606-5c4da944bd33",
+            "keypoint": {
+                "x": 467.74,
+                "y": 564.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "b0222de4-3c6e-42ca-9001-d08d9f585909",
+            "keypoint": {
+                "x": 450.34,
+                "y": 545.42
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "ecbaf3ff-d86c-49f1-9853-26cedc790371",
+            "keypoint": {
+                "x": 431.74,
+                "y": 547.83
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "40f19020-7750-4f7d-b2ee-19105357462d",
+            "keypoint": {
+                "x": 409.53,
+                "y": 558.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "5eaceb46-4548-472e-9128-aad5d9b35725",
+            "keypoint": {
+                "x": 420.34,
+                "y": 523.82
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "90668bd6-5615-496e-bf71-417f6149c48a",
+            "keypoint": {
+                "x": 378.93,
+                "y": 545.42
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "14bb9d36-a05a-45af-a22f-197f4ed3de86",
+            "keypoint": {
+                "x": 498.94,
+                "y": 554.43
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "6287aa03-8dfc-421c-9e93-51c46bc2b578",
+            "keypoint": {
+                "x": 481.54,
+                "y": 547.83
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "d9da4e50-5946-4391-8bac-0473340cafcd",
+            "keypoint": {
+                "x": 417.54,
+                "y": 610.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "3251f49a-ab7e-45ac-92f4-f57383466063",
+            "keypoint": {
+                "x": 556.26,
+                "y": 736.07
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "db3853d5-d595-4965-8249-fa2e855e90d6",
+            "keypoint": {
+                "x": 631.27,
+                "y": 848.23
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "e780a041-d581-461b-b6de-bda4df132081",
+            "keypoint": {
+                "x": 611.27,
+                "y": 801.79
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "e6a58462-b5b3-40c0-915e-bfabca8ada49",
+            "keypoint": {
+                "x": 601.98,
+                "y": 749.65
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "c5f6b3c1-dbdf-4469-a885-a4eb82a7b9b3",
+            "keypoint": {
+                "x": 598.41,
+                "y": 698.21
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "cb3c0ece-e2f7-453f-8d8f-3fff55cdd543",
+            "keypoint": {
+                "x": 567.69,
+                "y": 671.07
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "16023409-22ce-4921-a304-7073866c266a",
+            "keypoint": {
+                "x": 584.12,
+                "y": 657.49
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "fe13005e-9e45-4000-b499-892ed62b5d4e",
+            "keypoint": {
+                "x": 579.12,
+                "y": 639.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "894742e9-3cfc-4fe5-86a4-1d0fcb8e1411",
+            "keypoint": {
+                "x": 564.84,
+                "y": 624.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "37f742d5-2d34-42ec-875c-18af9a2b9e6a",
+            "keypoint": {
+                "x": 584.84,
+                "y": 606.77
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "168e23a8-5971-45c3-92eb-0b9c050523c1",
+            "keypoint": {
+                "x": 562.69,
+                "y": 601.06
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "a1089d6a-71ea-4442-bca8-60e241454866",
+            "keypoint": {
+                "x": 583.41,
+                "y": 586.77
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "864f832a-7b67-45b3-ba05-6fb5245d561e",
+            "keypoint": {
+                "x": 566.26,
+                "y": 583.91
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "1e7ed5b1-c9ff-497f-b607-ef742604d94c",
+            "keypoint": {
+                "x": 583.41,
+                "y": 564.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "33ffe8f9-e88e-4be6-9c4f-659620ea7662",
+            "keypoint": {
+                "x": 634.84,
+                "y": 721.07
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "079ea07d-535c-4ca2-a75c-7a4158f021d9",
+            "keypoint": {
+                "x": 610.55,
+                "y": 573.91
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "ab24ca45-03b9-468e-a944-c3306e2fbcbf",
+            "keypoint": {
+                "x": 615.55,
+                "y": 555.34
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "1f2e32fd-05cb-4c6a-8349-afcf96f3f468",
+            "keypoint": {
+                "x": 604.13,
+                "y": 539.62
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "bb7cf885-86e9-462e-ad41-71535587508d",
+            "keypoint": {
+                "x": 631.27,
+                "y": 538.2
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "96048007-3543-4e12-bf22-34af9f89fb2c",
+            "keypoint": {
+                "x": 641.99,
+                "y": 523.19
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "a75f8945-f70e-4f5e-8097-97f6e1752904",
+            "keypoint": {
+                "x": 800.57,
+                "y": 891.09
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "f94c16cd-a97d-4adc-8d85-ec0a28779835",
+            "keypoint": {
+                "x": 772.0,
+                "y": 803.94
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "e10558b5-1ced-4af3-8141-274c87cea39c",
+            "keypoint": {
+                "x": 744.14,
+                "y": 754.65
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "9dd26a24-3222-4b41-900b-39c7eb0bad66",
+            "keypoint": {
+                "x": 726.28,
+                "y": 722.5
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "f5664f6e-bc49-4196-a66c-080f41da1ede",
+            "keypoint": {
+                "x": 698.42,
+                "y": 668.21
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "98d06dd7-178b-4c2b-9158-377a311c0f14",
+            "keypoint": {
+                "x": 689.13,
+                "y": 649.64
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "76fd7efb-ead8-4e55-9beb-4f468cfdbf84",
+            "keypoint": {
+                "x": 678.42,
+                "y": 634.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "b95d3274-df59-4ac1-91da-cdbb3287c44a",
+            "keypoint": {
+                "x": 662.7,
+                "y": 656.78
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "6ffd8573-0434-4730-8d23-53a86ee5583a",
+            "keypoint": {
+                "x": 676.99,
+                "y": 601.77
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "28e51995-1928-4e7d-a79e-45c6fbea4a5d",
+            "keypoint": {
+                "x": 653.42,
+                "y": 596.77
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "6a1cb13a-39c4-406a-a101-7caca980ca67",
+            "keypoint": {
+                "x": 664.13,
+                "y": 583.2
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "6766fe34-79f1-4dd8-80c6-d478d65ac6e0",
+            "keypoint": {
+                "x": 651.99,
+                "y": 563.91
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "b90c9af9-243f-4b37-99bf-4f9ee2dfe990",
+            "keypoint": {
+                "x": 674.85,
+                "y": 545.34
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "4b2c2faf-de9a-4355-a532-a92659cc097c",
+            "keypoint": {
+                "x": 698.42,
+                "y": 531.77
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "94876504-adde-449c-b46f-8b542d906f09",
+            "keypoint": {
+                "x": 721.99,
+                "y": 571.77
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "1ec543f5-1771-4f62-b930-ab5600231925",
+            "keypoint": {
+                "x": 709.14,
+                "y": 561.77
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "12b7c488-8c95-47ab-99da-523d89a8c1c6",
+            "keypoint": {
+                "x": 747.0,
+                "y": 549.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "fa138de1-d36a-456c-89d2-df43737b2445",
+            "keypoint": {
+                "x": 777.71,
+                "y": 573.2
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "52eec57e-7e0c-4c16-8b25-6474466b87a4",
+            "keypoint": {
+                "x": 753.43,
+                "y": 578.2
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "045d998a-99bb-4a85-a30a-eac9ba1bcb8e",
+            "keypoint": {
+                "x": 768.43,
+                "y": 586.06
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "82f22384-b919-4f3c-a0a5-77025e0eb954",
+            "keypoint": {
+                "x": 774.86,
+                "y": 603.92
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "95bc50ec-1622-40df-b595-d841b23c0e66",
+            "keypoint": {
+                "x": 750.57,
+                "y": 596.77
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "00b672fb-9c6a-47db-9340-6534a07dbd85",
+            "keypoint": {
+                "x": 719.14,
+                "y": 597.49
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "9cd9b3fd-9b47-4645-b0a2-1029ab9fb25b",
+            "keypoint": {
+                "x": 701.28,
+                "y": 613.92
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "2154f046-3cdc-431d-be2d-c28577816c95",
+            "keypoint": {
+                "x": 713.42,
+                "y": 628.92
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "511825dc-1ff7-4dc1-a096-8879b59803ce",
+            "keypoint": {
+                "x": 747.0,
+                "y": 649.64
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "56fbd63a-9c18-484f-8bc8-0b760798128b",
+            "keypoint": {
+                "x": 777.71,
+                "y": 633.2
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "acf89bf2-c0c6-4145-9e66-63785c1d74f8",
+            "keypoint": {
+                "x": 796.29,
+                "y": 597.49
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "46a33e4a-9226-48cc-a477-fed11e62df82",
+            "keypoint": {
+                "x": 802.72,
+                "y": 566.77
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "63d090a4-73c5-43b2-8b27-b9538bb65110",
+            "keypoint": {
+                "x": 815.57,
+                "y": 549.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "b9a132f0-9429-48ea-9072-281d337d9177",
+            "keypoint": {
+                "x": 847.01,
+                "y": 566.06
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "447038eb-6377-4762-ba1e-b13483292f47",
+            "keypoint": {
+                "x": 835.58,
+                "y": 573.2
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "20d5c98f-ebfe-482b-9fdb-4ceaf75c10d0",
+            "keypoint": {
+                "x": 860.58,
+                "y": 587.49
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "adc9f0d6-8767-42a6-b85c-5c693453dcc8",
+            "keypoint": {
+                "x": 828.43,
+                "y": 593.2
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "7179e519-c012-4a48-b837-cd6c9048b210",
+            "keypoint": {
+                "x": 862.72,
+                "y": 624.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "dbcc2da8-c2d2-48fd-947e-e3403af05682",
+            "keypoint": {
+                "x": 802.0,
+                "y": 632.49
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "7a2475a4-6874-4322-93c9-a7d772472a24",
+            "keypoint": {
+                "x": 763.43,
+                "y": 674.64
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "0a14cf22-a6a7-4b76-8381-1e9f0edc7943",
+            "keypoint": {
+                "x": 782.71,
+                "y": 672.49
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "415059a2-06b0-49ad-b423-27f4aa400912",
+            "keypoint": {
+                "x": 804.14,
+                "y": 703.93
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "544d628f-2cd1-4bb8-ba5c-8e29d722b3b7",
+            "keypoint": {
+                "x": 849.15,
+                "y": 761.07
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "5c6525a1-9679-4feb-aaff-1594647ae37f",
+            "keypoint": {
+                "x": 882.01,
+                "y": 841.08
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "68b303c2-5429-41fe-9a8e-5a8a5dbcbc0a",
+            "keypoint": {
+                "x": 909.87,
+                "y": 786.79
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "57d083e0-1e17-4f8e-b7c5-57fcb22655d4",
+            "keypoint": {
+                "x": 904.15,
+                "y": 718.21
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "77a80a1b-b6a4-439d-9c57-ae1adaa03d12",
+            "keypoint": {
+                "x": 889.87,
+                "y": 677.5
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "fcbf9485-8062-40ff-b730-4ad11e407912",
+            "keypoint": {
+                "x": 882.72,
+                "y": 653.21
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "e2b987c8-acb6-451c-8abe-d2c488435068",
+            "keypoint": {
+                "x": 920.59,
+                "y": 657.49
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "a7c2bf4f-ff74-4138-812e-da4eedf617c1",
+            "keypoint": {
+                "x": 889.15,
+                "y": 623.92
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "b9f144ba-653f-44f7-9abc-0a2882ba9f68",
+            "keypoint": {
+                "x": 878.44,
+                "y": 599.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "3c59985e-615c-4d53-b230-5a539403cda4",
+            "keypoint": {
+                "x": 892.01,
+                "y": 581.77
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "235a7c1d-01e3-42b8-8e01-fec6c0c4dc58",
+            "keypoint": {
+                "x": 906.3,
+                "y": 623.92
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "3d3efedf-7b6d-47c8-8d9c-98b4c5d36e17",
+            "keypoint": {
+                "x": 944.87,
+                "y": 714.64
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "22b4ef3e-ba9f-4bca-8773-14c7e6b9054a",
+            "keypoint": {
+                "x": 977.02,
+                "y": 748.93
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "406c66d8-987e-47b6-82bc-716d51276ada",
+            "keypoint": {
+                "x": 969.88,
+                "y": 797.51
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "7a22dd35-4d8d-4481-b949-e89594f3d7d5",
+            "keypoint": {
+                "x": 1064.17,
+                "y": 895.37
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "13818a44-499a-43e5-886f-4837270dedc1",
+            "keypoint": {
+                "x": 1005.59,
+                "y": 936.81
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "ddcc06f2-ef1c-429f-af58-00e19eff6a13",
+            "keypoint": {
+                "x": 1212.76,
+                "y": 928.23
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "4df102f3-e714-4ac0-ad7c-0f2263478f3c",
+            "keypoint": {
+                "x": 1047.03,
+                "y": 796.08
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "f931e239-eaf4-48a3-bcd0-fa0368b33800",
+            "keypoint": {
+                "x": 989.88,
+                "y": 741.79
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "cb0ceb3a-b983-432a-8882-e0ee78acfc73",
+            "keypoint": {
+                "x": 905.58,
+                "y": 656.06
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "503ee01a-ab4f-4392-8adf-5a85e894b7ec",
+            "keypoint": {
+                "x": 983.45,
+                "y": 631.06
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "e5edcaa4-3fee-48e6-89e9-cef5b68fac26",
+            "keypoint": {
+                "x": 956.3,
+                "y": 613.92
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "d4349e82-37ae-4601-a97f-f4f946bd2807",
+            "keypoint": {
+                "x": 941.3,
+                "y": 594.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "84616a03-4180-4a19-b354-6517bd77486c",
+            "keypoint": {
+                "x": 929.16,
+                "y": 580.34
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "1bf59901-358a-4dd6-aa06-cd96c3aa2f05",
+            "keypoint": {
+                "x": 929.16,
+                "y": 563.2
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "51ad6786-dbaf-491a-9292-47e666a6080f",
+            "keypoint": {
+                "x": 930.59,
+                "y": 553.2
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "c540f724-f234-4865-9e53-9ad560bc633f",
+            "keypoint": {
+                "x": 911.3,
+                "y": 561.06
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "c728e346-ed35-4273-bbae-05b5ad8b25d9",
+            "keypoint": {
+                "x": 902.01,
+                "y": 542.48
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "63b73aad-4e60-4c9d-89ce-803e8a1881b7",
+            "keypoint": {
+                "x": 839.15,
+                "y": 500.33
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "4083e695-cfdb-4c58-84a0-0e63b9306c3c",
+            "keypoint": {
+                "x": 804.14,
+                "y": 500.33
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "e6776f6f-540b-44c0-92b4-592e8ef66578",
+            "keypoint": {
+                "x": 963.45,
+                "y": 536.77
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "d5734801-8131-4643-a321-348ce2b3ed8c",
+            "keypoint": {
+                "x": 1006.31,
+                "y": 566.06
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "81929d7c-e583-467a-87b8-9961ba5d5c41",
+            "keypoint": {
+                "x": 978.45,
+                "y": 589.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "130d008d-bd53-4fb0-903c-791d847fcda5",
+            "keypoint": {
+                "x": 961.3,
+                "y": 581.06
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "7ef37f05-f615-461f-a0df-1b1b6e032682",
+            "keypoint": {
+                "x": 1029.17,
+                "y": 528.91
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "d84e1da8-19b9-4dc9-b92f-ee1d525e488d",
+            "keypoint": {
+                "x": 1020.59,
+                "y": 544.62
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "33d2c535-c730-4379-8367-ec81798c7663",
+            "keypoint": {
+                "x": 1007.02,
+                "y": 593.2
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "f93e4166-51e1-4f0f-9f1c-dbc928989e5b",
+            "keypoint": {
+                "x": 1030.6,
+                "y": 642.49
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "24a38555-3112-4ff2-9ee6-993c687a323a",
+            "keypoint": {
+                "x": 1017.02,
+                "y": 631.06
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "6b672873-1e44-4db9-a5eb-02577c4189a0",
+            "keypoint": {
+                "x": 1048.45,
+                "y": 609.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "ed205553-f773-436f-b8a9-b140074fa6fe",
+            "keypoint": {
+                "x": 1058.46,
+                "y": 574.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "700a65fe-90f2-4416-93ef-3532362196f3",
+            "keypoint": {
+                "x": 1065.6,
+                "y": 608.2
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "d4c4c01a-f464-4aba-9f2d-45e96106e7e0",
+            "keypoint": {
+                "x": 1094.89,
+                "y": 611.06
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "7796cade-0c86-4973-9c03-2852fd683114",
+            "keypoint": {
+                "x": 1094.17,
+                "y": 685.35
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "1c5891ec-e5f8-4dbb-b152-a89d0c5c54a0",
+            "keypoint": {
+                "x": 1059.88,
+                "y": 671.78
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "3cdc2255-b435-4870-8d08-d34ffee8b757",
+            "keypoint": {
+                "x": 1100.6,
+                "y": 721.07
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "287b90d4-3754-43dd-ad23-858bcfafc24d",
+            "keypoint": {
+                "x": 1134.18,
+                "y": 817.51
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "557b5c4a-a83d-4faa-802d-437ae0dff0e0",
+            "keypoint": {
+                "x": 1246.33,
+                "y": 837.51
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "1911e4f3-ddb6-4527-8233-0685ad17ffa8",
+            "keypoint": {
+                "x": 1192.04,
+                "y": 772.5
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "23a08dc4-3a66-4ce8-9add-22ed07793e74",
+            "keypoint": {
+                "x": 1178.47,
+                "y": 743.22
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "113e205d-d9dc-464a-9160-dd25a7d319ad",
+            "keypoint": {
+                "x": 1151.32,
+                "y": 713.21
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "ff123906-343c-4a1a-a94b-aa83eb449546",
+            "keypoint": {
+                "x": 1139.18,
+                "y": 659.64
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "6eeaeff9-fba6-4eb4-ae0c-b845f4078541",
+            "keypoint": {
+                "x": 1117.75,
+                "y": 643.21
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "a1af2a38-e818-4f0b-9ac1-660363539f9a",
+            "keypoint": {
+                "x": 1127.03,
+                "y": 628.2
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "8fd6d009-4269-439c-9c66-ff71ad0880b1",
+            "keypoint": {
+                "x": 1135.61,
+                "y": 592.49
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "9cfb6c21-fa6b-49e1-a10c-cb1138474ad0",
+            "keypoint": {
+                "x": 1177.75,
+                "y": 576.77
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "e01d0f7f-9493-4d48-a63c-9f269c82601e",
+            "keypoint": {
+                "x": 1197.04,
+                "y": 591.77
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "2482c73d-410e-4d4c-a706-4ec3a7a9801a",
+            "keypoint": {
+                "x": 1182.75,
+                "y": 601.77
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "f124bb67-37f9-41ff-b948-1fda34689ba3",
+            "keypoint": {
+                "x": 1157.75,
+                "y": 643.92
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "133133d5-0ab1-4157-baf0-b34f42534e2b",
+            "keypoint": {
+                "x": 1176.32,
+                "y": 644.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "4a4ddbf0-4088-4328-b087-8aaff30e0999",
+            "keypoint": {
+                "x": 1198.47,
+                "y": 674.64
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "c5cda63c-aa2d-420b-bcbe-902333eb39ff",
+            "keypoint": {
+                "x": 1214.19,
+                "y": 658.92
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "dde29861-4827-40d9-b912-3f8d80bcfed8",
+            "keypoint": {
+                "x": 1232.76,
+                "y": 626.06
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "7357e88f-18ad-45a6-9a14-03e893b93148",
+            "keypoint": {
+                "x": 1353.48,
+                "y": 831.8
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "bec28d99-2353-4120-9adf-2edd369cb9b9",
+            "keypoint": {
+                "x": 1356.34,
+                "y": 926.09
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "8ea5fd52-c385-4ac3-a639-d8e1216e9c5f",
+            "keypoint": {
+                "x": 1349.2,
+                "y": 796.79
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "faf4dbc3-ebd7-490b-a171-75201158ddbc",
+            "keypoint": {
+                "x": 1299.19,
+                "y": 749.65
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "600bcab5-1742-4448-86a6-06d1242759f2",
+            "keypoint": {
+                "x": 1274.91,
+                "y": 743.93
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "3c94f09e-89e5-4bae-a967-334ea5997080",
+            "keypoint": {
+                "x": 1276.33,
+                "y": 710.36
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "6325c784-974d-45a0-81a5-4abcb09cf94f",
+            "keypoint": {
+                "x": 1307.05,
+                "y": 717.5
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "573dd471-c4f4-4002-a3ba-45a989002bb6",
+            "keypoint": {
+                "x": 1337.05,
+                "y": 741.79
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "e908512b-464c-4905-b013-a175ffd95077",
+            "keypoint": {
+                "x": 1369.91,
+                "y": 739.64
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "560bde44-542b-4fa2-a7a7-db8c8adaf508",
+            "keypoint": {
+                "x": 1377.77,
+                "y": 694.64
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "75f3eec6-0a0f-42f4-b6b0-ae1f6aa592f6",
+            "keypoint": {
+                "x": 1392.77,
+                "y": 656.78
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "c4f5fc37-baa0-4bca-a24d-17fe78b077be",
+            "keypoint": {
+                "x": 1401.35,
+                "y": 646.06
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "c910bc16-ab4d-49e4-b089-3e05a18972c5",
+            "keypoint": {
+                "x": 1365.63,
+                "y": 611.06
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "459ca7a5-25d4-48ff-8ec0-a41a6a8f19fc",
+            "keypoint": {
+                "x": 1317.77,
+                "y": 648.92
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "d53da50d-4f6e-4e86-a60b-4184124ad3c6",
+            "keypoint": {
+                "x": 1309.19,
+                "y": 678.92
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "c419d572-bfbe-4973-9c30-a488090e9d93",
+            "keypoint": {
+                "x": 1283.48,
+                "y": 665.35
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "2697a22a-c35f-49a8-a04f-aa96da134fee",
+            "keypoint": {
+                "x": 1276.33,
+                "y": 634.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "de128f52-536a-4bcc-9138-6f3fe592aeac",
+            "keypoint": {
+                "x": 1317.77,
+                "y": 587.49
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "e0c6c8b3-7865-4dfb-bb49-3ae49eba7be4",
+            "keypoint": {
+                "x": 1327.05,
+                "y": 561.77
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "51f74a8c-c6ac-4f93-bf86-60a9e0886409",
+            "keypoint": {
+                "x": 1384.2,
+                "y": 546.77
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "0bb4a7f3-0984-4d5e-a265-ad270218cf46",
+            "keypoint": {
+                "x": 1364.2,
+                "y": 483.9
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "0022aaaa-235c-484d-b142-17b1eaa9befc",
+            "keypoint": {
+                "x": 1328.48,
+                "y": 486.05
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "37de6f74-7050-4e8e-8482-af8d020b9fcd",
+            "keypoint": {
+                "x": 1442.78,
+                "y": 582.49
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "0383648c-7eee-4b5e-9ca8-62d363670c6d",
+            "keypoint": {
+                "x": 1424.92,
+                "y": 613.92
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "7051b245-2cee-4ef8-983b-902f4412c3aa",
+            "keypoint": {
+                "x": 1464.21,
+                "y": 657.49
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "9a94cd79-f8a3-4077-8456-03b6844e124b",
+            "keypoint": {
+                "x": 1442.78,
+                "y": 683.92
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "e38585f6-849f-42f8-92ef-b8fcdfca8674",
+            "keypoint": {
+                "x": 1450.64,
+                "y": 723.93
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "2e73b3c6-26f2-4169-b836-e8156547b4b8",
+            "keypoint": {
+                "x": 1436.35,
+                "y": 758.93
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "8045455e-d3b2-4489-a265-6609b7058c6b",
+            "keypoint": {
+                "x": 1483.5,
+                "y": 841.08
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "72b2db93-f2bc-4d91-a98c-c69815422741",
+            "keypoint": {
+                "x": 1449.21,
+                "y": 833.94
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "dd3ffe9c-85ed-4488-a246-29fbbb83cabe",
+            "keypoint": {
+                "x": 1312.77,
+                "y": 607.49
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "3483b486-f9fe-47f2-9c97-440af6d1d27e",
+            "keypoint": {
+                "x": 1219.19,
+                "y": 685.35
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "a8ab5653-b11d-4d9e-98d2-efbde8fbf468",
+            "keypoint": {
+                "x": 1155.61,
+                "y": 620.35
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "3e93fe33-51f1-4e48-93f1-1a13481cb67d",
+            "keypoint": {
+                "x": 1510.64,
+                "y": 564.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "e18a0de0-d3db-41da-aa18-0038727f186f",
+            "keypoint": {
+                "x": 1546.36,
+                "y": 542.48
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "b1150da6-563a-4470-a1c4-e6834e863587",
+            "keypoint": {
+                "x": 1515.64,
+                "y": 610.35
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "4ad760a4-67b1-473d-80b8-b8b94ef5a60d",
+            "keypoint": {
+                "x": 1534.22,
+                "y": 637.49
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "5103c763-5787-4a04-a488-286e707bbe9f",
+            "keypoint": {
+                "x": 1509.93,
+                "y": 639.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "6112c589-e291-47d7-b444-923080e69489",
+            "keypoint": {
+                "x": 1483.5,
+                "y": 707.5
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "6981d1a0-0ff7-4394-b279-623a79c437da",
+            "keypoint": {
+                "x": 1499.21,
+                "y": 696.78
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "3d9f4024-f5a1-4634-a7e1-e612c152e626",
+            "keypoint": {
+                "x": 1548.5,
+                "y": 681.07
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "3a9de857-34cd-428a-88b5-87dee347ecf8",
+            "keypoint": {
+                "x": 1572.08,
+                "y": 648.21
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "f540f573-59cd-4881-a0c8-6dd934450e86",
+            "keypoint": {
+                "x": 1527.07,
+                "y": 715.36
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "782c2f63-7759-45f1-bf32-d11b26d2eaae",
+            "keypoint": {
+                "x": 1494.93,
+                "y": 734.64
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "359b6133-2603-4ff9-a0fe-e2b81d7cb412",
+            "keypoint": {
+                "x": 1525.64,
+                "y": 786.79
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "c4aeee4f-3238-4abf-a8ca-530684feb780",
+            "keypoint": {
+                "x": 1489.21,
+                "y": 790.36
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "d994065b-eec5-459a-9ded-8eaf4cacb172",
+            "keypoint": {
+                "x": 1572.79,
+                "y": 898.23
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "e5e4e1a1-2c85-488f-b6d1-ffcd6951ba92",
+            "keypoint": {
+                "x": 1622.08,
+                "y": 888.94
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "5cbb3871-c9b8-45fc-a127-bd0271c8f846",
+            "keypoint": {
+                "x": 1645.66,
+                "y": 841.8
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "cba61447-e662-4bae-b0e2-8c6e00c2869d",
+            "keypoint": {
+                "x": 1659.23,
+                "y": 818.22
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "fb93502b-8dbb-48ea-9bf8-db2cf62ac2b5",
+            "keypoint": {
+                "x": 1632.8,
+                "y": 804.65
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "7b2959f7-79a4-4604-a890-499a1ba8272e",
+            "keypoint": {
+                "x": 1628.51,
+                "y": 769.65
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "4c7974e2-c87d-4d4a-97ab-1bf44b47ac9d",
+            "keypoint": {
+                "x": 1599.22,
+                "y": 737.5
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "be392ff4-df29-43c2-a7ba-fda3dc24a3e3",
+            "keypoint": {
+                "x": 1587.79,
+                "y": 619.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "f6ef1122-6424-46a2-a273-f4721ad7d57d",
+            "keypoint": {
+                "x": 1627.08,
+                "y": 586.06
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "30ed0a6b-3d3a-4b29-99e6-3c9b13345157",
+            "keypoint": {
+                "x": 1711.38,
+                "y": 798.94
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "edc8cebb-42fc-4ab5-8e35-5e718b6191d6",
+            "keypoint": {
+                "x": 1676.37,
+                "y": 760.36
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "9a90128e-0ca2-4008-aa1e-80c30cb14765",
+            "keypoint": {
+                "x": 1689.95,
+                "y": 727.5
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "85c7898e-35b7-4b6c-a0e5-38ffa6f081a8",
+            "keypoint": {
+                "x": 1659.94,
+                "y": 670.35
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "aec6db75-d189-4437-bd02-addb0ae0b3e9",
+            "keypoint": {
+                "x": 1642.08,
+                "y": 664.64
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "a42d187b-bad3-4016-bad4-32d789fd8d26",
+            "keypoint": {
+                "x": 1637.08,
+                "y": 617.49
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "490a15cd-aede-452c-a59b-ed589116ccb6",
+            "keypoint": {
+                "x": 1688.52,
+                "y": 641.06
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "1410a1b4-5c5b-421f-b66a-345d49b698af",
+            "keypoint": {
+                "x": 1714.23,
+                "y": 647.49
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "9e0c7c5e-e997-42b6-8c80-e06d7d03e1e6",
+            "keypoint": {
+                "x": 1757.1,
+                "y": 553.2
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "10c66d11-04f0-4c37-8cc5-41f7efc4b6a8",
+            "keypoint": {
+                "x": 1774.95,
+                "y": 601.77
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "2c213223-b3d9-4814-b91e-7f51b8d6d032",
+            "keypoint": {
+                "x": 1751.38,
+                "y": 671.07
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "c3de175f-cbd5-40e5-8c11-ca345d27b0b8",
+            "keypoint": {
+                "x": 1730.66,
+                "y": 706.07
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "9a4a9325-efa9-4e68-8e49-5e98c59be2df",
+            "keypoint": {
+                "x": 1740.67,
+                "y": 738.93
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "318b6914-6f9c-4cec-8866-4f2a9c8228c9",
+            "keypoint": {
+                "x": 1799.24,
+                "y": 815.37
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "8baaf5cc-1855-4c4a-b8af-51543df7ed32",
+            "keypoint": {
+                "x": 1792.1,
+                "y": 943.24
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "491b385f-1b9b-46b7-a303-0a5615bef793",
+            "keypoint": {
+                "x": 1799.96,
+                "y": 870.37
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "50f1811a-89dc-4164-a3cf-e29eacc87b32",
+            "keypoint": {
+                "x": 1757.1,
+                "y": 887.52
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "805e4aaf-4d7c-48a6-b518-e6afd8aaf64f",
+            "keypoint": {
+                "x": 1900.68,
+                "y": 840.37
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "703d5fd1-fe65-421a-bfdb-2f07135f96ea",
+            "keypoint": {
+                "x": 1857.11,
+                "y": 773.22
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "b5fca48f-7586-4642-8dbc-9acc675e148b",
+            "keypoint": {
+                "x": 1796.39,
+                "y": 759.65
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "3033bc71-fb38-432b-a1e8-0ead5f958852",
+            "keypoint": {
+                "x": 1771.38,
+                "y": 724.64
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "41b0e1ba-52f7-45ef-bd8e-d50574b92dd5",
+            "keypoint": {
+                "x": 1773.53,
+                "y": 694.64
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "7e661832-b31f-4927-bfac-e1733d0ea415",
+            "keypoint": {
+                "x": 1773.53,
+                "y": 660.35
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "934d3670-4905-4186-a3a8-3557e74d929a",
+            "keypoint": {
+                "x": 1796.39,
+                "y": 644.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "8b6ade58-766d-49e6-9f3b-580fe0ebd609",
+            "keypoint": {
+                "x": 1839.25,
+                "y": 658.21
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "5b7882d3-1f21-4833-b221-c596e1d15417",
+            "keypoint": {
+                "x": 1833.53,
+                "y": 671.78
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "e8034b61-aa1c-4bbf-a857-dc3696d0a1cb",
+            "keypoint": {
+                "x": 1844.96,
+                "y": 696.78
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "30be9f67-c7e0-4b59-8643-da1124bcdeff",
+            "keypoint": {
+                "x": 1882.11,
+                "y": 696.78
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "1425b78a-dc97-48df-9ad1-ca88034d445d",
+            "keypoint": {
+                "x": 1896.4,
+                "y": 721.07
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "bdeedeba-8005-4190-8006-622db0042ae4",
+            "keypoint": {
+                "x": 1950.69,
+                "y": 753.22
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "f162679f-24ac-4598-838d-9db1903287e2",
+            "keypoint": {
+                "x": 2026.41,
+                "y": 785.36
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "6681a57e-8e93-444d-9ce7-d015e4348efc",
+            "keypoint": {
+                "x": 1997.12,
+                "y": 888.23
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "823cd63c-267d-41e7-aa41-4c152d67ea00",
+            "keypoint": {
+                "x": 1897.11,
+                "y": 609.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "8e6f48fb-62f1-44ea-a8ac-fbb4ec5fe56a",
+            "keypoint": {
+                "x": 1941.4,
+                "y": 557.72
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "c30f93c0-84a6-46ae-af72-747c4c102e27",
+            "keypoint": {
+                "x": 1948.54,
+                "y": 811.32
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "971ee498-5510-4a4f-8515-d01bdf2e0e61",
+            "keypoint": {
+                "x": 2030.69,
+                "y": 755.36
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "6fc2a392-6d4b-4586-9560-e065e6ab6101",
+            "keypoint": {
+                "x": 2017.6,
+                "y": 976.81
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "9f454ba2-d9af-4ebd-8f14-9a1053df2301",
+            "keypoint": {
+                "x": 1890.2,
+                "y": 1098.25
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "13a8d5f3-768d-4d04-9a32-48acbadedc01",
+            "keypoint": {
+                "x": 1850.91,
+                "y": 1029.2
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "719c1ac4-deb4-4f1e-81a0-cbbbb0f4fd50",
+            "keypoint": {
+                "x": 1729.47,
+                "y": 997.05
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "1d2b6e75-a3fe-4d69-b919-34a3c872c3c6",
+            "keypoint": {
+                "x": 1631.85,
+                "y": 999.43
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "a52cca97-6e73-4b0c-ac3c-fdfbffedb0a2",
+            "keypoint": {
+                "x": 1513.98,
+                "y": 1018.48
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "dedc0b7e-2d39-4ce3-9113-9e407bc594ee",
+            "keypoint": {
+                "x": 1310.39,
+                "y": 1069.68
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "612f4e27-39fc-46df-8293-c3f3060ef230",
+            "keypoint": {
+                "x": 1223.47,
+                "y": 976.81
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "74068c2f-f202-44d5-b45f-47196efc4138",
+            "keypoint": {
+                "x": 1663.99,
+                "y": 556.53
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "fadc5bdd-5b76-4f5a-ac0c-f4b02678cd5c",
+            "keypoint": {
+                "x": 1965.21,
+                "y": 575.58
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "01375d1e-7b4b-4e0b-b166-e741e0b06191",
+            "keypoint": {
+                "x": 2041.41,
+                "y": 637.49
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "6b90a717-1e73-4d02-94f2-cfeab9f66494",
+            "keypoint": {
+                "x": 2044.98,
+                "y": 599.39
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "f1806d7b-76c8-4bd9-b721-583c0594f9ef",
+            "keypoint": {
+                "x": 2036.65,
+                "y": 699.4
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "e3391169-f986-4d38-ac6b-a65c6959bd3f",
+            "keypoint": {
+                "x": 2048.55,
+                "y": 675.59
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "7261ad56-12b4-4036-966a-12f2d0870432",
+            "keypoint": {
+                "x": 2035.46,
+                "y": 672.02
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "4af4d6cc-64a8-4cc3-8050-fe39ede975c3",
+            "keypoint": {
+                "x": 1996.17,
+                "y": 680.35
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "fbed088a-99b0-470e-8163-a3737ecec522",
+            "keypoint": {
+                "x": 1999.74,
+                "y": 698.21
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "50a4479c-57a0-46bd-a147-fb60ae3c9ad1",
+            "keypoint": {
+                "x": 1950.92,
+                "y": 685.11
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "d6ce5fac-ed49-4123-8488-7a3d17a93589",
+            "keypoint": {
+                "x": 1927.11,
+                "y": 680.35
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "0300115d-3013-4557-877f-713b056a9631",
+            "keypoint": {
+                "x": 546.87,
+                "y": 531.02
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "91c556ab-0a61-4909-915e-d209e05ea951",
+            "keypoint": {
+                "x": 560.48,
+                "y": 540.37
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "b59889c1-2c62-43cc-9c3a-07c038d320f2",
+            "keypoint": {
+                "x": 519.66,
+                "y": 548.03
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "d37edde0-c631-4f93-b6eb-5ebe84241803",
+            "keypoint": {
+                "x": 519.75,
+                "y": 521.12
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "6d1d6b84-9334-4fcd-a52d-47b1b7564a95",
+            "keypoint": {
+                "x": 495.39,
+                "y": 517.76
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "72109d2a-1ae2-4f06-b44e-efeebc8c125e",
+            "keypoint": {
+                "x": 506.31,
+                "y": 489.2
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "a25c3528-bd76-464f-af88-042b1a479050",
+            "keypoint": {
+                "x": 531.51,
+                "y": 485.84
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "dc9102f4-0155-4406-9963-8ceb472849df",
+            "keypoint": {
+                "x": 558.39,
+                "y": 485.84
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "9f299875-7819-4661-b1eb-b782f7c9b28b",
+            "keypoint": {
+                "x": 455.06,
+                "y": 512.72
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "7082abd0-c70c-4c6a-91fc-170166826c9b",
+            "keypoint": {
+                "x": 397.94,
+                "y": 519.44
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "5dcf4435-a507-4cb5-b30c-48e1e699befc",
+            "keypoint": {
+                "x": 375.25,
+                "y": 522.8
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "87cd5667-ce56-4bb6-afa8-c9af667a8a63",
+            "keypoint": {
+                "x": 346.69,
+                "y": 516.08
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "6348af9c-156f-4d16-bfea-975b85c2d029",
+            "keypoint": {
+                "x": 333.25,
+                "y": 516.92
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "3df5d6f7-e71d-4b99-87ce-a3922fca7d73",
+            "keypoint": {
+                "x": 334.93,
+                "y": 527.0
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "89d59bfc-7e30-498d-b5b2-6122be56ca57",
+            "keypoint": {
+                "x": 324.85,
+                "y": 534.56
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "d272f0c0-75eb-4a41-a174-783f56c5f1b5",
+            "keypoint": {
+                "x": 357.61,
+                "y": 545.48
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "4f16a121-02da-452b-aba1-10b1663f50c6",
+            "keypoint": {
+                "x": 360.97,
+                "y": 490.88
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "e9f31f48-3097-4e3b-9ac9-a22b574df8b6",
+            "keypoint": {
+                "x": 351.73,
+                "y": 483.32
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "4fce0b50-46a5-4ee9-be2f-da0a0ce0ddc8",
+            "keypoint": {
+                "x": 336.61,
+                "y": 482.48
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "f0a4d206-b6ac-475b-b4a5-bd0a3386478e",
+            "keypoint": {
+                "x": 18.22,
+                "y": 466.51
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "6231ef99-d9f0-497b-8543-10bc88122d96",
+            "keypoint": {
+                "x": 38.38,
+                "y": 459.79
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "2ed06aca-eaaa-4981-a080-4f3c2c4cd95a",
+            "keypoint": {
+                "x": 60.22,
+                "y": 456.43
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "83821530-3098-4da3-bb78-636e8d19eb67",
+            "keypoint": {
+                "x": 8.14,
+                "y": 489.2
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "06f1de22-e270-469b-81ed-10864f0872af",
+            "keypoint": {
+                "x": 26.62,
+                "y": 482.48
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "2379619a-81af-4c55-b656-15309d4aab24",
+            "keypoint": {
+                "x": 45.1,
+                "y": 481.64
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "c1df8132-732f-49b8-add2-f4cfe432c217",
+            "keypoint": {
+                "x": 70.3,
+                "y": 482.48
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "46384413-6a5c-4a52-9012-9232bcb0f990",
+            "keypoint": {
+                "x": 83.75,
+                "y": 481.64
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "6742e73c-27fc-4e47-92b9-17726f03d8ed",
+            "keypoint": {
+                "x": 84.59,
+                "y": 450.55
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "26b77eaa-e594-464c-be66-39bf0ea35779",
+            "keypoint": {
+                "x": 93.83,
+                "y": 500.96
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "05b7dc86-cb6b-4354-84d4-f8691a7f5c4f",
+            "keypoint": {
+                "x": 86.27,
+                "y": 507.68
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "3a98ee5b-d246-424f-9925-6393ff11661c",
+            "keypoint": {
+                "x": 46.78,
+                "y": 500.12
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "34cd2087-e986-40a6-be2f-2aa5a65c6b7a",
+            "keypoint": {
+                "x": 24.94,
+                "y": 500.96
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "139b65e5-dab1-48d0-aedd-afa15b092303",
+            "keypoint": {
+                "x": 9.82,
+                "y": 507.68
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "d1a3bd2d-7d12-4e86-aab4-bd4ff82c6b56",
+            "keypoint": {
+                "x": 89.63,
+                "y": 522.8
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "caee4a9d-2e73-46aa-9d46-11477a3956ce",
+            "keypoint": {
+                "x": 102.23,
+                "y": 507.68
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "2a203cfb-edae-4516-8b2a-83969ab574b9",
+            "keypoint": {
+                "x": 102.23,
+                "y": 485.84
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "43705b84-5b13-41c8-a2f1-59d146a8379e",
+            "keypoint": {
+                "x": 71.14,
+                "y": 467.35
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "2a576b19-ac01-4de2-a289-6c5bb8e5cd57",
+            "keypoint": {
+                "x": 311.41,
+                "y": 481.64
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "3eb3522f-4fd0-40a3-b376-d848a638ce8a",
+            "keypoint": {
+                "x": 1772.31,
+                "y": 579.09
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "b6621242-d3ed-4e7e-bf58-2f92324f6636",
+            "keypoint": {
+                "x": 1745.43,
+                "y": 559.76
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "3ae34892-1ced-4be6-b814-cba5e8c66a91",
+            "keypoint": {
+                "x": 479.88,
+                "y": 495.56
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "761835b8-84e4-48fa-9798-6981fd066e61",
+            "keypoint": {
+                "x": 426.65,
+                "y": 486.48
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "f1e16175-0787-4409-aec7-a58fea6ed864",
+            "keypoint": {
+                "x": 377.66,
+                "y": 493.14
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "f1f0069c-95b3-4bc9-8971-cd5f30ab9058",
+            "keypoint": {
+                "x": 393.39,
+                "y": 501.0
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "6dcb6f64-0d22-4702-b2e9-c3435951dde8",
+            "keypoint": {
+                "x": 447.22,
+                "y": 499.19
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "75dd7ad0-e91e-4b08-b413-714a550c5788",
+            "keypoint": {
+                "x": 471.41,
+                "y": 530.03
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "9b511b96-562d-4364-b675-fd66a42889d5",
+            "keypoint": {
+                "x": 412.74,
+                "y": 537.9
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "3a74f0a7-0477-45ce-ad83-a6a67a4c7247",
+            "keypoint": {
+                "x": 340.16,
+                "y": 543.95
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "66b7f2c7-f42e-4045-820c-03ecbd6c1a3a",
+            "keypoint": {
+                "x": 10.05,
+                "y": 614.18
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "f4a1616a-8b27-4c47-8c09-1f123b4f3e80",
+            "keypoint": {
+                "x": 72.01,
+                "y": 586.48
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "0922a37b-e1c0-425f-a63e-07d580ffd0ef",
+            "keypoint": {
+                "x": 59.71,
+                "y": 551.19
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "1012357b-e57d-4bca-9cec-a110bf17b136",
+            "keypoint": {
+                "x": 68.17,
+                "y": 494.44
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "72cbe6ae-5cf8-441c-b160-8dd0a8e39ac0",
+            "keypoint": {
+                "x": 60.48,
+                "y": 502.76
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "55a3a303-76e7-4f4f-a46d-77c08e5c2f09",
+            "keypoint": {
+                "x": 39.36,
+                "y": 491.56
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "9fa6b70d-0452-42bf-8df7-7341db68520d",
+            "keypoint": {
+                "x": 18.55,
+                "y": 491.56
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "63f91698-19c7-4ae5-9eea-2e30100363aa",
+            "keypoint": {
+                "x": 80.01,
+                "y": 497.32
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "d9e10ab0-4efc-4b38-814b-a6216dd36280",
+            "keypoint": {
+                "x": 108.18,
+                "y": 524.21
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "80fbd343-055f-4cc4-a036-c6aed2bc32f8",
+            "keypoint": {
+                "x": 74.89,
+                "y": 570.31
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "332174d7-a90b-4294-b800-a1fae08317fb",
+            "keypoint": {
+                "x": 14.43,
+                "y": 590.02
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "58d1c354-528d-41a5-ad68-977e1b3591f5",
+            "keypoint": {
+                "x": 92.36,
+                "y": 460.52
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "b4cf233d-b4b7-49fa-a79e-0bbaead56c49",
+            "keypoint": {
+                "x": 26.25,
+                "y": 473.63
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "f8ebf229-e471-40eb-823c-a8d084c38e64",
+            "keypoint": {
+                "x": 6.72,
+                "y": 458.84
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        },
+        {
+            "id": "e72f4d4c-85fe-47f3-8f11-8b27134ea87e",
+            "keypoint": {
+                "x": 50.24,
+                "y": 449.36
+            },
+            "name": "Person1",
+            "slot_names": [
+                "0"
+            ]
+        }
+    ],
+    "source": "0.jpg"
+}
