@@ -6,7 +6,7 @@ The dataset consists of **647** images of crowds, containing up to **11,000** in
 
 It provides density maps for density estimation, useful in crowd monitoring and object detection tasks. Data supports deep learning models for better crowd control and crowd management, offering feature-rich data such as feature maps and predicted density outputs.
 
-# 💵 Buy the Dataset: This is a limited preview of the data. To access the full dataset, please contact us at [https://unidata.pro](https://unidata.pro/datasets/people-detection-image?utm_source=github&utm_medium=cpc&utm_campaign=crowds) to discuss your requirements and pricing options.
+## 💵 Buy the Dataset: This is a limited preview of the data. To access the full dataset, please contact us at [https://unidata.pro](https://unidata.pro/datasets/people-detection-image?utm_source=github&utm_medium=cpc&utm_campaign=crowds) to discuss your requirements and pricing options.
 
 ### Crowd density types:
 *0-1000, 1000-2000, 2000-3000, 3000-4000, 4000-5000*
@@ -18,4 +18,4 @@ Additionally, the dataset can help address challenges in public monitoring, espe
 ## Metadata for the dataset
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F22059654%2F559f8f60cbd1dc8f696551e14f6d7f79%2FFrame%20139%20(1).png?generation=1727866511428115&alt=media)
 
-# 🌐 [UniData](https://unidata.pro/datasets/people-detection-image?utm_source=github&utm_medium=cpc&utm_campaign=crowds) provides high-quality datasets, content moderation, data collection and annotation for your AI/ML projects 
+## 🌐 [UniData](https://unidata.pro/datasets/people-detection-image?utm_source=github&utm_medium=cpc&utm_campaign=crowds) provides high-quality datasets, content moderation, data collection and annotation for your AI/ML projects 
